@@ -4,6 +4,7 @@
 - Resource names for uniformity
 - `Fonts` changed to `UbFonts`
 - `Images` changed to `UbImages`
+- `Constants` changed to `UbConstants`
 - Accessibility for slider component
 #### Removed
 - Old way of supporting fonts
